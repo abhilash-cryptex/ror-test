@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: ror_test_development
+  pool: 5
+  username: root
+  password: password123
+  host: localhost
+
